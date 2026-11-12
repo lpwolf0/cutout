@@ -1,0 +1,2 @@
+Place model_fp16.onnx (BRIA RMBG-2.0, about 490 MB) in this folder.
+See the README in the project root for where to get it.
